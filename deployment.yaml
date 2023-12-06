@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: java-app
-          image: bipulprasai/java-registerapp-pipeline:1.0.0-11
+          image: bipulprasai/java-registerapp-pipeline:1.0.0-18
           resources:
             limits:
               memory: "256Mi"
